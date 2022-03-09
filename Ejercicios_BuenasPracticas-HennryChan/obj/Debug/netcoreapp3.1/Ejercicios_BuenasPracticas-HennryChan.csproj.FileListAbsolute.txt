@@ -1,0 +1,14 @@
+C:\Users\ropht\Documents\ISC\Blue Ocean\Unidad 6\Ejercicios_BuenasPracticas-HennryChan\Ejercicios_BuenasPracticas-HennryChan\bin\Debug\netcoreapp3.1\Ejercicios_BuenasPracticas-HennryChan.exe
+C:\Users\ropht\Documents\ISC\Blue Ocean\Unidad 6\Ejercicios_BuenasPracticas-HennryChan\Ejercicios_BuenasPracticas-HennryChan\bin\Debug\netcoreapp3.1\Ejercicios_BuenasPracticas-HennryChan.deps.json
+C:\Users\ropht\Documents\ISC\Blue Ocean\Unidad 6\Ejercicios_BuenasPracticas-HennryChan\Ejercicios_BuenasPracticas-HennryChan\bin\Debug\netcoreapp3.1\Ejercicios_BuenasPracticas-HennryChan.runtimeconfig.json
+C:\Users\ropht\Documents\ISC\Blue Ocean\Unidad 6\Ejercicios_BuenasPracticas-HennryChan\Ejercicios_BuenasPracticas-HennryChan\bin\Debug\netcoreapp3.1\Ejercicios_BuenasPracticas-HennryChan.runtimeconfig.dev.json
+C:\Users\ropht\Documents\ISC\Blue Ocean\Unidad 6\Ejercicios_BuenasPracticas-HennryChan\Ejercicios_BuenasPracticas-HennryChan\bin\Debug\netcoreapp3.1\Ejercicios_BuenasPracticas-HennryChan.dll
+C:\Users\ropht\Documents\ISC\Blue Ocean\Unidad 6\Ejercicios_BuenasPracticas-HennryChan\Ejercicios_BuenasPracticas-HennryChan\bin\Debug\netcoreapp3.1\Ejercicios_BuenasPracticas-HennryChan.pdb
+C:\Users\ropht\Documents\ISC\Blue Ocean\Unidad 6\Ejercicios_BuenasPracticas-HennryChan\Ejercicios_BuenasPracticas-HennryChan\obj\Debug\netcoreapp3.1\Ejercicios_BuenasPracticas-HennryChan.csproj.AssemblyReference.cache
+C:\Users\ropht\Documents\ISC\Blue Ocean\Unidad 6\Ejercicios_BuenasPracticas-HennryChan\Ejercicios_BuenasPracticas-HennryChan\obj\Debug\netcoreapp3.1\Ejercicios_BuenasPracticas-HennryChan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ropht\Documents\ISC\Blue Ocean\Unidad 6\Ejercicios_BuenasPracticas-HennryChan\Ejercicios_BuenasPracticas-HennryChan\obj\Debug\netcoreapp3.1\Ejercicios_BuenasPracticas-HennryChan.AssemblyInfoInputs.cache
+C:\Users\ropht\Documents\ISC\Blue Ocean\Unidad 6\Ejercicios_BuenasPracticas-HennryChan\Ejercicios_BuenasPracticas-HennryChan\obj\Debug\netcoreapp3.1\Ejercicios_BuenasPracticas-HennryChan.AssemblyInfo.cs
+C:\Users\ropht\Documents\ISC\Blue Ocean\Unidad 6\Ejercicios_BuenasPracticas-HennryChan\Ejercicios_BuenasPracticas-HennryChan\obj\Debug\netcoreapp3.1\Ejercicios_BuenasPracticas-HennryChan.csproj.CoreCompileInputs.cache
+C:\Users\ropht\Documents\ISC\Blue Ocean\Unidad 6\Ejercicios_BuenasPracticas-HennryChan\Ejercicios_BuenasPracticas-HennryChan\obj\Debug\netcoreapp3.1\Ejercicios_BuenasPracticas-HennryChan.dll
+C:\Users\ropht\Documents\ISC\Blue Ocean\Unidad 6\Ejercicios_BuenasPracticas-HennryChan\Ejercicios_BuenasPracticas-HennryChan\obj\Debug\netcoreapp3.1\Ejercicios_BuenasPracticas-HennryChan.pdb
+C:\Users\ropht\Documents\ISC\Blue Ocean\Unidad 6\Ejercicios_BuenasPracticas-HennryChan\Ejercicios_BuenasPracticas-HennryChan\obj\Debug\netcoreapp3.1\Ejercicios_BuenasPracticas-HennryChan.genruntimeconfig.cache
