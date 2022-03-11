@@ -12,8 +12,8 @@ namespace Ejercicios_BuenasPracticas_HennryChan
         {
             string nombreArchivo = @"Eventos.txt";
 
-            string[] lineas = File.ReadAllLines(nombreArchivo);
-            SeparacionDatoPorComa(lineas);
+            string[] cadenaTxts = File.ReadAllLines(nombreArchivo);
+            SeparacionDatoPorComa(cadenaTxts);
         }
 
         private void SeparacionDatoPorComa(string[] cadenaTxts)

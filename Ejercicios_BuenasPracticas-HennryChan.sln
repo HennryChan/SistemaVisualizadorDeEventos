@@ -7,6 +7,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicios_BuenasPracticas-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEventos", "TestEventos\TestEventos.csproj", "{FD91F9D9-1F61-440A-9540-C7D6B5F2AF38}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Definiciones", "Definiciones", "{2FE8A620-A5F1-46C8-A83E-EA215145BE80}"
+	ProjectSection(SolutionItems) = preProject
+		IControlDeArchivos.cs = IControlDeArchivos.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modelos", "Modelos", "{C08982B4-D309-4D01-B318-79116B141335}"
+	ProjectSection(SolutionItems) = preProject
+		GetSetEventos.cs = GetSetEventos.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
