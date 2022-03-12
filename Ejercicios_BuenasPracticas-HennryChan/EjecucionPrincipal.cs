@@ -2,16 +2,17 @@
 using System.Collections.Generic;
 using System.Text;
 
+
 namespace Ejercicios_BuenasPracticas_HennryChan
 {
     public class EjecucionPrincipal
     {
         public void InicioPrincipal()
         {
-            LogicaEventos ObjLogicaEventos = new LogicaEventos();
 
+            LogicaEvento objLogicaEventos = new LogicaEvento();
             Console.WriteLine("Sistema Visualizador de Eventos\n");
-            ObjLogicaEventos.LeerArchivosTxT();
+            objLogicaEventos.LeerArchivosTxT();
 
             Console.ReadKey();
         }

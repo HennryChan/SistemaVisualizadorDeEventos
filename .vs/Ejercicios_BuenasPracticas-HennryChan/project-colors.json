@@ -5,7 +5,22 @@
       "ProjectGuid": "8d54266b-2dd4-42bb-8d7a-dcf6f9db5ae7",
       "DisplayName": "Ejercicios_BuenasPracticas-HennryChan",
       "ColorIndex": 0
+    },
+    "fd91f9d9-1f61-440a-9540-c7d6b5f2af38": {
+      "ProjectGuid": "fd91f9d9-1f61-440a-9540-c7d6b5f2af38",
+      "DisplayName": "TestEventos",
+      "ColorIndex": 1
+    },
+    "2fe8a620-a5f1-46c8-a83e-ea215145be80": {
+      "ProjectGuid": "2fe8a620-a5f1-46c8-a83e-ea215145be80",
+      "DisplayName": "Definiciones",
+      "ColorIndex": 2
+    },
+    "c08982b4-d309-4d01-b318-79116b141335": {
+      "ProjectGuid": "c08982b4-d309-4d01-b318-79116b141335",
+      "DisplayName": "Modelos",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }
