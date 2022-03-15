@@ -9,8 +9,7 @@ namespace Ejercicios_BuenasPracticas_HennryChan
     {
         public void InicioPrincipal()
         {
-
-            LogicaEvento objLogicaEventos = new LogicaEvento();
+            Implementacion.LogicaEvento objLogicaEventos = new Implementacion.LogicaEvento();
             Console.WriteLine("Sistema Visualizador de Eventos\n");
             objLogicaEventos.LeerArchivosTxT();
 

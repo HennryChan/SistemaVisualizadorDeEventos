@@ -7,7 +7,6 @@ namespace Ejercicios_BuenasPracticas_HennryChan.Implementacion
 {
         public class LogicaEvento
         {
-
             public void LeerArchivosTxT()
             {
                 string nombreArchivo = @"Eventos.txt";
